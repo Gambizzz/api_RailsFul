@@ -1,24 +1,23 @@
-# README
+## Le projet
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Une application simple : un blog avec des articles avec CRUD complet pour ces derniers : création, index, lecture, edit, update, destroy. Le tout sera en API JSON.
 
-Things you may want to cover:
+- Projet en Ruby 3.x.x.
 
-* Ruby version
+- Création de l'app avec Rails 7 mais en mode API uniquement.
 
-* System dependencies
+- Pour la BDD, utilisation de SQLite3.
 
-* Configuration
+- Authentification avec devise-jwt.
 
-* Database creation
+## Bonus
 
-* Database initialization
+- Ajout de commentaires.
 
-* How to run the test suite
+- Ajoute d'images.
 
-* Services (job queues, cache servers, search engines, etc.)
+- Possibilité de rendre les articles privés.
 
-* Deployment instructions
+- Ajout de validations.
 
-* ...
+
